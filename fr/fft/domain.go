@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/thomaspiellard/goldilocks/fr"
+	"github.com/ThomasPiellard/goldilocks/fr"
 
 	"github.com/consensys/gnark-crypto/ecc"
 )
